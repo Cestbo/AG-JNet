@@ -9,7 +9,7 @@
 from tqdm import tqdm
 from torch import nn
 from torch.optim import Adam
-from model_nj import AG_JNet
+from model import AG_JNet
 from stgcn import STGCN
 from torch.utils.data import DataLoader, TensorDataset
 import utils
