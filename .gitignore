@@ -4,8 +4,9 @@
 
 # IntelliJ project files
 .pytest_cache/
-data/*
-experiment/
+data/AirQ
+experiment/*
+!experiment/AG-JNet/net_PeMSD4_12.pkl
 model_*.py
 .idea
 __pycache__/
