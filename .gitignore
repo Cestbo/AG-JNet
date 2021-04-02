@@ -4,8 +4,9 @@
 
 # IntelliJ project files
 .pytest_cache/
-data/AirQ/
+data/*
 experiment/
 model_*.py
 .idea
 __pycache__/
+
