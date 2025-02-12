@@ -1,4 +1,5 @@
 # AG-JNet
+[论文地址](https://www.zjujournals.com/eng/CN/Y2021/V55/I10/1825)
 ## 网络结构
 ![alt](img/AG-JNet.png "AG-JNet")
 ![alt](img/stblock.png "STBlock")
